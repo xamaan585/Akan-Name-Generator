@@ -1,4 +1,4 @@
-# MY PORTFOLIO WEBSITE
+# AKAN NAME GENERATOR!
 
 ## Visit my website with this link
    ### [My-Portfolio](https://github.com/xamaan585/Akan-Name-Generator.git)
