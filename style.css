@@ -1,0 +1,24 @@
+h1{
+    font-size: 50px;
+    font-family: monospace;
+    color:aquamarine;
+    font-style: oblique;
+    margin: 2rem;
+}
+form{
+    width: 700px;
+    padding: 10px;
+    font-size: 25px;
+    font-family:'open sans';
+    background: #053853;
+    color: blanchedalmond;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+li{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cornflowerblue;
+    margin: 2rem;
+}

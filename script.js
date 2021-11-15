@@ -1,5 +1,4 @@
-
- function formRefresh(){
+function formRefresh(){
     document.getElementById("form_data").reset();
 }
 
